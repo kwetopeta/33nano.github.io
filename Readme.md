@@ -1,7 +1,7 @@
 # Hugo Notes
 
 > These are my personal notes to guide me through the process of building a website using Hugo.
-
+<!--
 ### 0: Initial Commands
 
 ### 1:Pick a Theme
@@ -52,4 +52,4 @@
 
 [M10c](https://themes.gohugo.io/hugo-theme-m10c/)
 - Not a bad blog theme, but it kinda suffices
-
+-->
