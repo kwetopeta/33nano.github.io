@@ -1,7 +1,26 @@
-# Building a site with Hugo
+# Hugo Notes
 
+> These are my personal notes to guide me through the process of building a website using Hugo.
+
+### 0: Initial Commands
+
+### 1:Pick a Theme
+
+### 2:Editing Content
+
+### 3: Creating Content
 1: hugo new site <site name>
 
+### 4:Hugo Syntax + Other
+
+### 5: Deploying Website
+
+-InterPlanetary File System
+-Github Pages
+- DIY Hosting
+- Free Hosting
+
+### 6: Managing & Updating Site
 2: Pick a theme
 > I wish i could pick one, but i'll eventually have to use all of them. Especially for product pages of my games.
 [Mero](https://themes.gohugo.io/mero/)
