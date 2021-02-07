@@ -1,0 +1,430 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+  <title>33 Nanoseconds</title>
+  <meta charset="utf-8" />
+  <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+  <meta name="description" content="My awesome blog" />
+  <meta name="author" content="Prince Kaizen Namwali" />
+  <meta name="generator" content="mero theme by Darshan in Hugo 0.80.0" />
+
+  <link
+    rel="stylesheet"
+    href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+    integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
+    crossorigin="anonymous"
+  />
+  <link
+    rel="stylesheet"
+    href="https://use.fontawesome.com/releases/v5.5.0/css/all.css"
+  />
+  <link
+    href="https://fonts.googleapis.com/css?family=Overlock|Roboto+Mono&display=swap"
+    rel="stylesheet"
+  />
+  <link rel="stylesheet" href="/css/mero.css" />
+
+  <script src="/js/mero.js"></script>
+</head>
+
+  <body class="bg-dark text-white m-auto" style="width:95%; max-width: 1024px;">
+    <div class="wrapper">
+      <nav class="mb-3 mt-3 ml-1">
+  <div class="d-flex flex-row">
+    <div
+      class="menu-item border border-warning bg-dark p-2"
+      style="border-top-left-radius: 10px; border-bottom-left-radius: 10px;"
+    >
+      <a href="/"><span>Home</span> </a>
+    </div>
+    <div class="menu-item dropdown border border-warning bg-dark p-2">
+      <span class="dropbtn text-warning" onclick="toggleMenu(this)"
+        >Sections <i class="fas fa-angle-down"></i
+      ></span>
+      <div
+        class="dropdown-content p-2 bg-dark2 mt-2 rounded w-auto mt-1 d-none"
+        style="min-width: 200px;"
+      >
+        <ul class="list-unstyled">
+          
+          
+          
+          <li class="pt-2">
+            <a href="https://33nanoseconds.crypto/blog/">Blogs</a>
+          </li>
+          
+          
+        </ul>
+      </div>
+    </div>
+    <div class="menu-item border border-warning bg-dark p-2">
+      <a
+        href="/alltaxa/"
+        ><span>Taxa</span>
+      </a>
+    </div>
+    <div class="menu-item border border-warning bg-dark p-2"
+    style="border-top-right-radius: 10px; border-bottom-right-radius: 10px;">
+      <a
+        href="/archive/"
+        ><span>Archive</span>
+      </a>
+    </div>
+  </div>
+</nav>
+
+      <main>
+        
+<article class="border rounded p-3 position-relative" style="margin-top: 2.5em;">
+  <div class="header">
+    <h1 style="font-size: 2.5em;">
+      Artix Linux Installation
+    </h1>
+    <div
+    class="mb-1 mr-3 pl-1 pr-1 rounded bg-dark"
+    style="position: absolute; top: -19px; font-size: 0.9em;"
+  >
+    <time>2020-01-01</time>    
+    <span
+      class="more"
+      style="font-size: 1.5em;"
+      title="Show Metadata"
+      onclick="showMetadata(this)"
+    >
+      &#43;
+    </span>
+  </div><div class="m-2 metadata overflow-hidden" style="max-height: 0px;">
+  
+  <div class="metadata-value mb-1 contact contact-container-div list-sections">
+    <div>
+      Reading Time: 
+4 mins
+      
+    </div>
+    <div>
+      Section:
+      <a
+        class="pl-1 pr-1 rounded border border-secondary"
+        href="/Blog"
+        title="Section"
+      >Blogs</a>
+    </div>
+  </div>
+  
+
+  
+  
+  
+  <div class="metadata-value mb-1 contact contact-container-div list-categories">
+    Categories:
+    
+    <a
+      class="pl-1 pr-1 rounded border border-secondary"
+      href="/categories/category-1"
+      title="categories"
+    >Category 1</a>
+    
+  </div>
+  
+  
+  
+  <div class="metadata-value mb-1 contact contact-container-div list-tags">
+    Tags:
+    
+    <a
+      class="pl-1 pr-1 rounded border border-secondary"
+      href="/tags/random"
+      title="tags"
+    >random</a>
+    
+  </div>
+  
+  
+</div>
+</div>
+  <div class="article pb-3 pt-3 border-bottom border-top">
+    
+    <h2 id="why">Why?</h2>
+<p>That was my initial question and thought, but ultimately it became why not? Not long ago, i decided to ditch the world of Windows &amp; macOS in the year 2016. I breathed and transpired the same air as the Xenial Xerus (Ubuntu 16.04). From that point onwards, i distro hopped multiple times in virtualbox and on my physical machine in search of something. I didn&rsquo;t know what i wanted exactly, but thats what i did. Throughout my distrohopping i found a common theme that i was unaware off. Every distribution i installed had a graphical installer and came preconfingured with a bloated desktop environment. I never knew why, but i certainly knew that no matter what distribution i used, i could never truly get what i desired, which i later discovered was speed. I researched extensively and finally stumbled upon something called Arch Linux. At first i was scared because the idea of doing everything yourself felt exhilirating. After reading about the core principles, simplicity sticked out to me. This entire time i was using bloated distros that ended up hogging so much memory that i totally forgot that simplicity is the key to speed. I was missing the third s.I looked up videos on how to install arch linux and i was immediately drawn away. I tried looking for alternatives to arch linux. I wanted the arch linux experience, but without the seaminly harsh installation process. I liked Manjaro, but that was still bloated, even the communit editions. By some oddity, i ended reading about this thing called systemd. Finally i found the third s, systemd-free . Artix linux was the first thing i stumbled upon and i was all in. Simplcity, speed and systemd -free, the 3 s&rsquo;s of well informed decision. Luckily enough there was an installation video on YouTube, but i took notes. This is the process by which i installed the linux distribution which i have finally settled down on.</p>
+<h2 id="full-installation">Full Installation</h2>
+<p>User:root
+Password:artix</p>
+<blockquote>
+<p>Unblock WiFi
+<!-- raw HTML omitted --></p>
+</blockquote>
+<p><code>rfkill unblock wifi</code></p>
+<!-- raw HTML omitted -->
+<blockquote>
+<p>Wlan0  - WiFi card/adapter. Eth0  - Ethernet. Setup wlan0</p>
+</blockquote>
+<p><code>ip link set wlan0 up</code></p>
+<blockquote>
+<p>WiFi utility</p>
+</blockquote>
+<p><code>connmanctl</code></p>
+<blockquote>
+<p>Scan networks</p>
+</blockquote>
+<p><code>scan wifi</code></p>
+<p>See list of connections</p>
+<p><code>services</code></p>
+<blockquote>
+<p>Turn on agent</p>
+</blockquote>
+<p><code>agent on</code></p>
+<blockquote>
+<p>Connect to network</p>
+</blockquote>
+<p><code>connect wifi_x_x_managed_psk</code></p>
+<blockquote>
+<p>Exit WiFi utility</p>
+</blockquote>
+<p><code>quit</code></p>
+<blockquote>
+<p>Check connection. Ctrl + C to exit ping.</p>
+</blockquote>
+<p><code>ping website</code> or <code>ip a</code></p>
+<blockquote>
+<p>Check the disk</p>
+</blockquote>
+<p><code>lsblk</code></p>
+<blockquote>
+<p>Partition the disk</p>
+</blockquote>
+<p><code>cfdisk /dev/sda</code></p>
+<blockquote>
+<p>Press delete key until you see free space</p>
+</blockquote>
+<p><code>new</code> &gt; <code>500M</code> &gt; <code>type=EFI System</code> &gt; <code>write</code> &gt; <code>yes</code></p>
+<p><code>new</code> &gt; <code>enter</code> &gt; <code>type=Linux Filesystem</code> &gt; <code>write</code> &gt; <code>yes</code> &gt; <code>quit</code></p>
+<blockquote>
+<p>Make a fat partition on the EFI System</p>
+</blockquote>
+<p><code>mkfs.fat -F32 /dev/sda1</code></p>
+<blockquote>
+<p>Make an Ext4 partition on Linux filesytem</p>
+</blockquote>
+<p><code>mkfs.ext4 /dev/sda2</code></p>
+<blockquote>
+<p>Check partitions again</p>
+</blockquote>
+<p><code>lsblk</code></p>
+<blockquote>
+<p>Mount root partition</p>
+</blockquote>
+<p><code>mount /dev/sda2  /mnt</code></p>
+<blockquote>
+<p>Make an EFI boot directory in the root partition</p>
+</blockquote>
+<p><code>mkdir -p /mnt/boot/efi</code></p>
+<blockquote>
+<p>Mount boot partition onto the EFI system</p>
+</blockquote>
+<p><code>mount /dev/sda1  /mnt/boot/efi</code></p>
+<blockquote>
+<p>Check to see the mounted partitions</p>
+</blockquote>
+<p><code>lsblk</code></p>
+<blockquote>
+<p>Install the base system</p>
+</blockquote>
+<p><code>basestrap  /mnt  linux linux-firmware base base-devel runit elogind-runit intel-ucode nano</code></p>
+<blockquote>
+<p>Fstab</p>
+</blockquote>
+<p><code>fstabgen -U /mnt &gt;&gt; /mnt/etc/fstab</code></p>
+<blockquote>
+<p>Check the fstab</p>
+</blockquote>
+<p><code>cat /mnt/etc/fstab</code></p>
+<blockquote>
+<p>Move from the installer into the iso</p>
+</blockquote>
+<p><code>artix-chroot  /mnt</code></p>
+<blockquote>
+<p>For a more interactive experience, switch the shell</p>
+</blockquote>
+<p><code>bash</code></p>
+<blockquote>
+<p>Create a swap file</p>
+</blockquote>
+<p><code>dd if=/dev/zero of=/swapfile  bs=1G count=2 status=progress</code></p>
+<blockquote>
+<p>Change the permissions of the swap file</p>
+</blockquote>
+<p><code>chmod 600 /swapfile</code></p>
+<blockquote>
+<p>Make the swap partition</p>
+</blockquote>
+<p><code>mkswap /swapfile</code></p>
+<blockquote>
+<p>Mount the swap partition</p>
+</blockquote>
+<p><code>swapon /dev/swapfile</code></p>
+<blockquote>
+<p>Add the swap partition into the fstab</p>
+</blockquote>
+<p><code>nano /etc/fstab</code></p>
+<p>/swapfile     none   swap   defaults   0  0</p>
+<blockquote>
+<p>Change the time</p>
+</blockquote>
+<p><code>ln -sf /usr/share/zoneinfo/America/Chicago  /etc/localtime</code></p>
+<blockquote>
+<p>Sync system clock with your hardware</p>
+</blockquote>
+<p><code>hwclock  --systohc</code></p>
+<blockquote>
+<p>Select your locale</p>
+</blockquote>
+<p><code>nano /etc/locale.gen</code></p>
+<blockquote>
+<p>Uncomment</p>
+</blockquote>
+<p><code>en_US.UTF-8  UTF-8</code></p>
+<blockquote>
+<p>Generate your locale</p>
+</blockquote>
+<p><code>locale -gen</code></p>
+<blockquote>
+<p>Add the locale to the configuration</p>
+</blockquote>
+<p><code>nano /etc/locale.conf</code></p>
+<p><code>LANG=en_US. UTF-8</code></p>
+<blockquote>
+<p>Create a hostname</p>
+</blockquote>
+<p><code>nano /etc/hostname</code></p>
+<p><code>artix</code></p>
+<blockquote>
+<p>Create a hosts file</p>
+</blockquote>
+<p><code>nano /etc/hosts</code></p>
+<p>127.0.0.1     localhost
+::1                  localhost
+127.0.1.1      artix.localdomain   artix</p>
+<blockquote>
+<p>Change the root password</p>
+</blockquote>
+<p><code>passwd</code></p>
+<blockquote>
+<p>Install grub &amp; other packages</p>
+</blockquote>
+<p><code>pacman -S grub efibootmgr networkmanager networkmanager-runit network-manager-applet dosfstools linux-headers xdg-utils xdg-user-dirs</code></p>
+<blockquote>
+<p>Grub install</p>
+</blockquote>
+<p><code>grub-install --target=x86_64-efi --efi-directory=/boot --bootloader-id=grub </code></p>
+<blockquote>
+<p>Configure grub</p>
+</blockquote>
+<p><code>grub-mkconfig -o /boot/grub/grub.cfg</code></p>
+<blockquote>
+<p>Add a user</p>
+</blockquote>
+<p><code>useradd -m user</code></p>
+<blockquote>
+<p>Add password for user</p>
+</blockquote>
+<p><code>passwd user</code></p>
+<blockquote>
+<p>Change the sudoers  file</p>
+</blockquote>
+<p><code>EDITOR=nano visudo</code></p>
+<blockquote>
+<p>Exit the chroot environment</p>
+</blockquote>
+<p><code>exit</code> &amp; <code>exit</code></p>
+<blockquote>
+<p>Unmount  system</p>
+</blockquote>
+<p><code>umount -R /mnt </code></p>
+<blockquote>
+<p>Reboot system &amp; Remove installation media</p>
+</blockquote>
+<p><code>reboot</code></p>
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<p><code>yay -S pixelorama-bin helm-synth godot vital-synth gimp-git inkscape-git audacity-git odin2-synthesizer aseprite alacritty android-tools reaper-bin vscodium-bin awesome librewolf-bin calcurse alacritty pandoc vlc-git pulseaudio-gitit thunar libreoffice-still unzip ranger lmms-beta-bin flutter android-file-transer nvidia nvidia-utils neofetch mlocate updatedb calibre-git picom feh polybar rofi volctl vim redshift font-manager gnome-tweaks-git sweet-theme-git papirus-icon-theme-git rsm oomox lxappearance-gtk3 beaker tor-browser hugo pngcrush oxipng optipng birdfont fontforge blender dust3d makehuman goxel gpick lilypond vcvrack element fluidsynth carla mc tiled htop sdcv stardict gnupg ccrypt sirikali carp encfsui cryptkeeper cava ttf-twemoji-color ttf-bitstream-vera zip unarchiver p7zip </code></p>
+<p><a href="https://techsner.com/2020/08/05/how-to-mount-android-phone-on-arch-linux/">Mount Android Device Guide</a></p>
+<p><a href="https://www.tecmint.com/install-yay-aur-helper-in-arch-linux-and-manjaro/">Install Yay AUR Helper</a></p>
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<ul>
+<li>Brightness Control <!-- raw HTML omitted --></li>
+<li>Volume Control <!-- raw HTML omitted --></li>
+<li>Android MTP <!-- raw HTML omitted --></li>
+<li>Yubico Authentication <!-- raw HTML omitted --></li>
+<li>Multilingual Support <!-- raw HTML omitted --></li>
+<li>VST Functionality <!-- raw HTML omitted --></li>
+</ul>
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<ul>
+<li>Alacritty <!-- raw HTML omitted --></li>
+<li>VScodium <!-- raw HTML omitted --></li>
+<li>Aseprite <!-- raw HTML omitted -->
+-Librewolf <!-- raw HTML omitted --></li>
+<li>GRUB Theme <!-- raw HTML omitted --></li>
+<li>GTK3 Theme <!-- raw HTML omitted --></li>
+<li>Reaper <!-- raw HTML omitted --></li>
+<li>Awesomewm <a href="https://github.com/manilarome/the-glorious-dotfiles">option 1</a> <a href="https://github.com/WillPower3309/awesome-dotfiles">Option 2</a></li>
+<li>Compositor (Kawase-blur) <!-- raw HTML omitted --></li>
+<li><a href="https://github.com/themix-project/oomox">Oomox</a></li>
+</ul>
+
+  </div>
+  <div class="mt-4 d-flex flex-row justify-content-around">
+  <div>
+    <a
+      href="/blog/vim/"
+      data-toggle="tooltip"
+      data-placement="top"
+      title="Vim"
+      ><i class="fas fa-chevron-circle-left" style="font-size: 2em;"></i></a
+    >
+  </div>
+  <div>
+    <a
+      href="/blog/american-supremacy/"
+      data-toggle="tooltip"
+      data-placement="top"
+      title=""
+      ><i class="fas fa-chevron-circle-right" style="font-size: 2em;"></i></a
+    >
+  </div>
+</div>
+
+</article>
+<script>
+  let showMetadata = function(x) {
+    let elem = x.parentNode.nextElementSibling;
+    if (window.getComputedStyle(elem)["height"] === "0px") {
+      elem.style.maxHeight = elem.scrollHeight + "px";
+      x.innerHTML = "&times;";
+      x.title = "Hide Metadata";
+    } else {
+      elem.style.maxHeight = "0px";
+      x.innerHTML = "&#43;";
+      x.title = "Show Metadata";
+    }
+  };
+</script>
+
+
+      </main>
+    </div>
+    <footer>
+  <div class="w-50 bg-danger ml-auto mr-auto mt-4" style="height: 2px;"></div>
+  <div class="mt-4 mb-2" style="font-size: 0.9em;">
+    <p class="text-center">
+      &copy; 2021 Prince Kaizen Namwali |
+      <a href="https://themes.gohugo.io/mero/">mero</a> theme
+    </p>
+  </div>
+</footer>
+
+  </body>
+</html>
