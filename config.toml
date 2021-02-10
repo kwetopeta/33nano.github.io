@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://33nano.netlify.app/"
 languageCode = "en-us"
 title = "Afropolitan Magi"
 theme = "dream"
