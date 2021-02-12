@@ -1,6 +1,6 @@
 baseURL = "https://33nano.netlify.app/"
 languageCode = "en-us"
-title = "Afropolitan Magi"
+title = "Prince Namwali"
 theme = "dream"
 
 # copyright = ""
@@ -27,7 +27,7 @@ theme = "dream"
   author = "Prince Namwali"
   # description = ""
   avatar = "/img/main.png"
-  # headerTitle = ""
+   headerTitle = "Prince Namwali"
   motto = "Lifelong Learner, Digital Nomad & Game Dev"
   # categoriesLimitInHeader = 6 # deprecated
   # headerBottomText = "" # deprecated
