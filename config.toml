@@ -3,8 +3,6 @@ languageCode = "en-us"
 title = "Prince Namwali"
 theme = "dream"
 
-# copyright = ""
-
 [params]
   background = "#f7f7f7"
   # backgroundImage = "/me/background.jpg"
