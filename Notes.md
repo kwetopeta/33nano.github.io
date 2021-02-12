@@ -1,5 +1,5 @@
 # Praxis Blog Challenge
-> Remwmber its about value creation ans learning out loud
+> Remember its about value creation and learning out loud
 
 - [ ] Web Layers
 - [ ] Bash Scripting
