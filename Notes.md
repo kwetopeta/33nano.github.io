@@ -19,3 +19,21 @@
 - Rollerblading poses a great challenge when it comes to stopping, but that's only one of the the three other worries. Rain and road conditions. Not all pavements are Created equal. 
 - [ ] Making aesthetic pixel art
 - A process that provides a great load of catharsis
+- [ ]  Is college the only way? (Analysis)/
+- self taught, apprenticeship or internship
+- [ ] Writing an eBook using markdown & pandoc vs Reedy
+- It's basically a battle between relying on offline tools or online tools
+- [ ] Documentation is a developers best friend
+- Why don't some developers document their work
+- [ ] Neovim is a way of life
+- All you need to know is how to insert, save and quit , then the rest you can easily pick up.
+- [ ] 365 Spreadsheet Challenge
+- What I learned from using Spreadsheets everyday for a single year. You cant change what you don't measure.
+- [ ] Polyglot of Babylon
+- The story from the Bible, but imagine if there was a Polyglot there, how cool would that be?
+- [ ] The benefits of reading comics
+Manga, manhwa and manhua. Helps you visualise things, gets your creative juices flowing, learn some subtle things...
+- [ ] Procgen music
+- A little something that I have been experimenting with. 
+- [ ] Automation & Laziness
+- If you love something automate it and you never have to work again in your life.
