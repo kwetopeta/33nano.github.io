@@ -24,7 +24,7 @@
 - [ ] Writing an eBook using markdown & pandoc vs Reedy
 - It's basically a battle between relying on offline tools or online tools
 - [ ] Documentation is a developers best friend
-- Why don't some developers document their work
+- When i learned that you dont have to memorize everything, i felt like this immense weight of doubt had been lifted. You can always go back to the documentation, use references like a cheat sheet, you have man pages. The more you do it, the easier it becomes to remember. If you forget, you are not stuck, just review it, its simple.
 - [ ] Neovim is a way of life
 - All you need to know is how to insert, save and quit , then the rest you can easily pick up.
 - [ ] 365 Spreadsheet Challenge
