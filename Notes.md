@@ -37,3 +37,21 @@ Manga, manhwa and manhua. Helps you visualise things, gets your creative juices 
 - A little something that I have been experimenting with. 
 - [ ] Automation & Laziness
 - If you love something automate it and you never have to work again in your life.
+- [ ] Bye Bye Plutonomy, welcome freedom
+- Leaving the corporate land of broken dreams and no opportunity for the land with overflowing innovation and ubuntu,Eurasia.
+- [ ] Don't Abandon Your Patriotism: The Reformation of Malawi
+- Nkhani yobvuta ngati yimeneyi, nkumati tiyambila pati.
+- [ ] Sexual Transmutation & Fasting
+- Fasting from water is called a dry fast, fasting from carbs is called __ diet, fasting from anything animal related is called vegan diet, fasting from anything sexual is called sexual transmutation
+- [ ] Inflammatory Questions
+- is college the only way, why do people struggle with money, how can I learn faster, how can I apply what I learn, how can improve my brain health
+- [ ] Afropolitan Migration
+- why are Afropolitans moving to Asia
+- [ ] Minimalism creates abundance
+- more time, more focus, more life expectancy?
+- [ ] Meditation with markdown
+- empty your thoughts
+- [ ] Gemini, IPFS & hyper protocol
+- sexy decentralized web protocols
+- [ ] Recovering from digital Homelessness
+- creating a self sovereign identity.
