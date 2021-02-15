@@ -2,7 +2,7 @@
 title = "Layers of the Web"
 date = "2021-02-15"
 tags = ["random"]
-cover = "https://i.redd.it/klly3pybglh61.png"
+cover = "https://i.redd.it/ynam9gloilh61.png"
 categories = ["Category 1"]
 description = "Thanks to the global pandemic, i finally know what i want to do, Game Development"
 +++
