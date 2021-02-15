@@ -28,6 +28,7 @@ description = "Thanks to the global pandemic, i finally know what i want to do, 
 
 +++
 
+### Notes
 
 What i learned from using spreadsheets every day for a single year
 
