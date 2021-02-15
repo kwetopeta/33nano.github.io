@@ -2,7 +2,7 @@
 title = "No Brain Left Behind"
 date = "2021-02-12"
 tags = ["Brain-Health"]
-cover = "https://cdn.dribbble.com/users/5578377/screenshots/13983638/media/f0032c4bb27696d0895919ad1a973383.png?compress=1&resize=800x600"
+cover = "https://i.redd.it/motop3vwvkh61.png"
 categories = ["Category 1"]
 description = "About my upcoming gamified brain health application"
 +++
