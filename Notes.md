@@ -54,5 +54,5 @@ Manga, manhwa and manhua. Helps you visualise things, gets your creative juices 
 - [ ] Gemini, IPFS & hyper protocol
 - sexy decentralized web protocols
 - [ ] Recovering from digital Homelessness
-- creating a self sovereign identity.
+- creating a self sovereign identity (an identity that you own). Dont trust LinkedIn, Facebook, Twitter, Instagram, Kakaotalk, or any centralized platform for that matter.
 - [ ] Techlead the most woke developer
