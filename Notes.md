@@ -56,3 +56,5 @@ Manga, manhwa and manhua. Helps you visualise things, gets your creative juices 
 - [ ] Recovering from digital Homelessness
 - creating a self sovereign identity (an identity that you own). Dont trust LinkedIn, Facebook, Twitter, Instagram, Kakaotalk, or any centralized platform for that matter.
 - [ ] Techlead the most woke developer
+- [ ] GNU Philosophy review
+- I'm often asked to describe the “advantages” of free software.  But the word “advantages” is too weak when it comes to freedom.  Life without freedom is oppression, and that applies to computing as well as every other activity in our lives.  We must refuse to give the developers of the programs or computing services control over the computing we do.  This is the right thing to do, forselfish reasons; but not solely for selfish reasons.
