@@ -55,3 +55,4 @@ Manga, manhwa and manhua. Helps you visualise things, gets your creative juices 
 - sexy decentralized web protocols
 - [ ] Recovering from digital Homelessness
 - creating a self sovereign identity.
+- [ ] Techlead the most woke developer
