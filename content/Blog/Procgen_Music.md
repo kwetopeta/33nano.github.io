@@ -26,4 +26,4 @@ Ujo music link, my soundcloud link, lmms link
 Is knowing solfege relevant?
 
 
-{{< soundcloud 785005117 >}}
+
