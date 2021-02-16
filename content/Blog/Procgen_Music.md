@@ -9,6 +9,12 @@ description = "About my upcoming gamified brain health application"
 
 ## Notes
 
+### Audio Samples
+
+- [Ujo Music](https://ujomusic.com/portal/musicgroup/849)
+- [LMMS Projects](https://lmms.io/lsp/?action=browse&user=33nanoseconds)
+- [Soundcloud](https://soundcloud.com/user-354894979)
+
 Ujo music link, my soundcloud link, lmms link
 
 - using lmms
