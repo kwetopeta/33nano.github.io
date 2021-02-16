@@ -4,7 +4,7 @@ date = "2021-02-14"
 tags = ["linux"]
 cover = "https://i.redd.it/4gy5n9xr9dh61.png"
 categories = ["Category 1"]
-description = "Thanks to the global pandemic, i finally know what i want to do, Game Development"
+description = "My Artix linux installation process with detailed notes."
 +++
 
 # Why?
