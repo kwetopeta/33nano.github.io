@@ -1,5 +1,5 @@
 +++
-title = "No Brain Left Behind"
+title = "No Brain, Left Behind"
 date = "2021-02-12"
 tags = ["Brain-Health"]
 cover = "https://i.redd.it/motop3vwvkh61.png"
