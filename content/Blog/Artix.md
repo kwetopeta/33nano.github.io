@@ -20,7 +20,7 @@ eventually i was reading about Arch linux. Arch linux was the answer that i had 
 
 ### Installation (DRAFT)
 
-- Detailed Notes
+- Detailed Notes required
 
 User:root
 Password:artix
