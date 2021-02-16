@@ -9,8 +9,8 @@ description = "Thanks to the global pandemic, i finally know what i want to do, 
 
 # Why?
 
- Not long ago, my knowledge of operating systems was limited. I only thought that Windows and MacOS were the only operating systems in existence, little did i know
-there was another universe waiting for me. A universe packed with freedom,better security, extremely customizable, faster and filled with an even larger community,
+ Not long ago, my knowledge of operating systems was limited. I only thought that Windows and MacOS were the only operating systems in existence,but little did i know that
+there was another universe out there. A universe packed with freedom,better security, extremely customizable, faster and filled with an even larger community,
 than my brain could ever comprehend. I remember the feeling of accomplishment i felt the first time i ever installed a linux distribution on my personal computer. I was
 super happy, i could finally leave the world of claustrophobia inducing windows and genetically modified apples, for a penguin? I was finally breathing the same air as the Xenial
 Xerus (Ubuntu 16.04 LTS). From that point onwards, i would participate in the act of distro hopping (switching from and across linux distributions). I experienced just about 
