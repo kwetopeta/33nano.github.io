@@ -2,7 +2,7 @@
 title = "Procgen Music"
 date = "2021-02-10"
 tags = ["Brain-Health"]
-cover = "https://i.redd.it/motop3vwvkh61.png"
+cover = "https://i.redd.it/ecgp2k1e8rh61.png"
 categories = ["Category 1"]
 description = "About my upcoming gamified brain health application"
 +++
