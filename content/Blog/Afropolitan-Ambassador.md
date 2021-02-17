@@ -4,5 +4,5 @@ date = "2020-12-19"
 tags = ["Afropolitan"]
 cover = "https://i.redd.it/eufqc3av9lh61.png"
 categories = ["Category 1"]
-description = "Thanks to the global pandemic, i finally know what i want to do, Game Development"
+description = "Thanks to the global pandemic, i finally know what i want to do, Game Development. Image is a combination of Every Pixel pattern and the brain picture by David clode on Unsplash"
 +++
