@@ -230,4 +230,4 @@ Password:artix
 
 `reboot`
 
-[img](https://distrowatch.com/images/other/periodic-table-of-distro.png)
+![img](https://distrowatch.com/images/other/periodic-table-of-distro.png)
