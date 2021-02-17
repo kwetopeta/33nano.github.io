@@ -4,7 +4,7 @@ date = "2021-02-09"
 tags = ["Brain-Health"]
 cover = "https://i.redd.it/9dg8jl35nxh61.png"
 categories = ["Category 1"]
-description = "About my upcoming gamified brain health application"
+description = "Addressing the issue of digital homelessness. Art by Trixie on Itch (https://trixelized.itch.io/) "
 +++
 
 ## Notes
