@@ -1,6 +1,6 @@
 +++
 title = "Living Gapps Free"
-date = "2021-02-08"
+date = "2021-02-07"
 tags = ["Brain-Health"]
 cover = "https://i.redd.it/rt7gis5knyh61.png"
 categories = ["Category 1"]
