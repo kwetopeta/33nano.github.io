@@ -4,7 +4,7 @@ date = "2021-02-13"
 tags = ["challenge","Spreadsheets"]
 cover = "https://i.redd.it/gspc7qgy1lh61.png"
 categories = ["Category 1"]
-description = "Thanks to the global pandemic, i finally know what i want to do, Game Development"
+description = "Using spreadsheets every day for a single year, what would happen? The cover for this one is just one of my spreadsheets blended with some patterns from Every Pixel"
 +++
 
 ### Notes
