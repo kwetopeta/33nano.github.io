@@ -229,3 +229,5 @@ Password:artix
 > Reboot system & Remove installation media
 
 `reboot`
+
+[img](https://distrowatch.com/images/other/periodic-table-of-distro.png)
