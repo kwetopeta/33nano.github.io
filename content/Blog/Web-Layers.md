@@ -7,10 +7,5 @@ categories = ["Category 1"]
 description = "Relearning the internet. The cover is a space image by Nasa from unsplash blended with some patterns from Everypixel"
 +++
 
-### Notes
+# Relearning The Internet
 
-- Surface Web aka Web 2.0 aka Centralized Web 
-- Dark Web .onion domain
-- Decentralized aka Web 3.0 (IPFS, Gemini, Hyper Protocol, I2P, .crypto domain .zil .eth .btc ...
-- Deep Web (Authentication required before even accessing the site itself)
-- Alliteration: deep, dark , decentralized.
