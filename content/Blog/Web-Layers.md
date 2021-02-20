@@ -36,4 +36,4 @@ Continued
 Closing Notes
 - Privacy Tools
 
-
+<!-- To make matters worse and just to clarify the self evident truth, i was banned/locked from LinkedIn, Facebook, My Twitter account is probably next. You cant trust these surveillance capitalist platforms to do anything productive, you have to create the value and signal it yourself, through other means than centralized social media. And all this happened in 2021 by the way. In a way, i am glad because in 2020 i worked so hard to learn about self sovereign. I am just dissapointed in the fact that i worked so hard to reach that 500+ connections and it all went down in one swoop.-->
