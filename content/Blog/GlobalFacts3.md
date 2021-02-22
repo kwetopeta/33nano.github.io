@@ -1,9 +1,9 @@
 +++
 title = "Global Facts v3.0 "
 date = "2021-02-02"
-tags = ["Poem"]
+tags = ["Poems"]
 cover = ""
-categories = ["Poem"]
+categories = ["Poems"]
 description = " This publication is an analysis of the video by Ranzo of the melanated files.  "
 +++
 
