@@ -1,7 +1,7 @@
 +++
 title = "Lingua Franca"
 date = "2021-02-06"
-tags = ["linux"]
+tags = ["Technical"]
 cover = "https://i.redd.it/t0jt3e66vki61.png"
 categories = ["Category 1"]
 description = " This publication answers the question, what was my first programming language? "
