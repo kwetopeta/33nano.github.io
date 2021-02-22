@@ -34,9 +34,9 @@ theme = "dream"
   # LEANCLOUD_APP_ID = ""
   # LEANCLOUD_APP_KEY = ""
 
-   twitter = "https://twitter.com/Anno_denomini"
+   
    github = "33nano"
-   stackoverflow = "https://stackoverflow.com/users/story/13772339"
+
 
   siteStartYear = 2021
 
