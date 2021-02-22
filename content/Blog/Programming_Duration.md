@@ -1,5 +1,5 @@
 +++
-title = "How Long Does It Take To Learn Programming"
+title = "How Long Does It Take To Learn Programming?"
 date = "2020-12-20"
 tags = ["Questions"]
 cover = ""
