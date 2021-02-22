@@ -1,7 +1,7 @@
 +++
 title = "Inflammatory Questions"
 date = "2021-02-16"
-tags = ["random"]
+tags = ["Questions"]
 cover = "https://i.redd.it/6y7wwcy1hyh61.png"
 categories = ["Questions"]
 description = "Questions that i found answers to by reading books. The cover is an image from an asset park on Itch by Edermuizz who can be found here https://edermunizz.itch.io/. "
