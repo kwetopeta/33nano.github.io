@@ -3,6 +3,8 @@ languageCode = "en-us"
 title = "Prince Namwali"
 theme = "dream"
 
+googleAnalytics = "G-FXGGH76XQE"
+
 [params]
   background = "#f7f7f7"
   # backgroundImage = "/me/background.jpg"
