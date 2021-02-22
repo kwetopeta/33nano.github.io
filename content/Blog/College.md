@@ -1,7 +1,7 @@
 +++
 title = "Is College The Only Way?"
 date = "2021-02-05"
-tags = ["linux"]
+tags = ["Questions"]
 cover = "https://i.redd.it/3e27y5t2uki61.png"
 categories = ["Category 1"]
 description = " "
