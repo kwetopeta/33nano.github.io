@@ -1,7 +1,7 @@
 +++
 title = "Procgen Music"
 date = "2021-02-10"
-tags = ["Brain-Health"]
+tags = ["Technical"]
 cover = "https://i.redd.it/ecgp2k1e8rh61.png"
 categories = ["Category 1"]
 description = "Procedural Generation. Things that are not created by human beings, but by computers who have been instructed by algortithms and instructions. Trained on different models or based purely on mathematical probability. I had a lot of fun creating the cover for this post because it was just my Reaper screenshot. I knew that the screenshot would turn out wonderful because my soundtrack layers already contained color and the overall program is colorful. With that colorful vibe in motion i searched on unsplash for something colorful and threw in a pattern from Every Pixel. The final result was superb, even though i could have ended with 100 different cool combos. "
