@@ -1,7 +1,7 @@
 +++
 title = "Covid-19 Lessons"
 date = "2020-12-31"
-tags = ["challenge","Spreadsheets"]
+tags = ["Technical"]
 cover = "https://i.redd.it/r6pko0613zh61.png"
 categories = ["Category 1"]
 description = "Another title would be Sapien Isolation. The art is by ansimuz in his sunny land asset pack."
