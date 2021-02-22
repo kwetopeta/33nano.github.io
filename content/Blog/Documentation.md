@@ -1,7 +1,7 @@
 +++
 title = "Friendly Documentation"
 date = "2021-02-11"
-tags = ["Afropolitan"]
+tags = ["Technical"]
 cover = "https://i.redd.it/evsckuk41rh61.png"
 categories = ["Category 1"]
 description = "Markdown for everything and the need for documentation. Without documentation you are lost and it takes too much time to figure out things, when they could have been easily cleared, if the documentation was there. The image is just a photo edit i did of my vscodium screenshot whiel editing the rc.lua config file. I blended the screenshot with some patterns from Every Pixel and added a noise effect for a crispier look."
