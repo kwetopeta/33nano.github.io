@@ -1,7 +1,7 @@
 +++
 title = "Artix Linux Installation"
 date = "2021-02-14"
-tags = ["linux"]
+tags = ["Technical"]
 cover = "https://i.redd.it/4gy5n9xr9dh61.png"
 categories = ["Category 1"]
 description = "My Artix linux installation process with detailed notes. Image is simply comprised on neofetch commands from both my pc and android phone. The rest is edited in gimp. Snapmod went into it, several screenshots just stitched together. I used the multiply layer mode style alot to truly get those greens out. "
