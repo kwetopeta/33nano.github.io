@@ -1,7 +1,7 @@
 +++
 title = "Dreams & Brainwaves"
 date = "2021-02-22"
-tags = ["random"]
+tags = ["Poem"]
 cover = ""
 categories = ["Poem"]
 description = "Relearning the internet. The cover is a space image by Nasa from unsplash blended with some patterns from Everypixel"
