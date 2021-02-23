@@ -2,7 +2,7 @@
 title = "From Wu to World"
 date = "2020-12-24"
 tags = ["Poems"]
-cover = ""
+cover = "https://i.redd.it/zscysdkqh4j61.png"
 categories = ["Poems"]
 description = "A poem about Covid-19"
 +++
