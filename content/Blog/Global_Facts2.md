@@ -2,7 +2,7 @@
 title = "Global Facts v2.0"
 date = "2020-12-22"
 tags = ["Poems"]
-cover = ""
+cover = "https://i.redd.it/t6ekas8bkaj61.png"
 categories = ["Poems"]
 description = "Universal facts composed into a poem"
 +++
