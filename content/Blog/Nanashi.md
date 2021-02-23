@@ -2,7 +2,7 @@
 title = "Nanashi Dearu Koto"
 date = "2021-02-01"
 tags = ["Poems"]
-cover = ""
+cover = "https://i.redd.it/hme8izagg4j61.png"
 categories = ["Poems"]
 description = "Relearning the internet. The cover is a space image by Nasa from unsplash blended with some patterns from Everypixel"
 +++
