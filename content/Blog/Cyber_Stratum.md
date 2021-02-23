@@ -2,7 +2,7 @@
 title = "Cyber Stratum"
 date = "2020-12-29"
 tags = ["Poems"]
-cover = ""
+cover = "https://i.redd.it/7feia13mdaj61.png"
 categories = ["Poems"]
 description = "A poem about my shocking awakening to reality, after being brainwashed by fake educations aka the School System"
 +++
