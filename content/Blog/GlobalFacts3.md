@@ -2,7 +2,7 @@
 title = "Global Facts v3.0 "
 date = "2021-02-02"
 tags = ["Poems"]
-cover = ""
+cover = "https://i.redd.it/xe9yi3mt8aj61.png"
 categories = ["Poems"]
 description = " This publication is an analysis of the video by Ranzo of the melanated files.  "
 +++
