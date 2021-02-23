@@ -2,7 +2,7 @@
 title = "Unlimited Shoutouts"
 date = "2020-12-28"
 tags = ["Poems"]
-cover = ""
+cover = "https://i.redd.it/obvxfdqxdaj61.png"
 categories = ["Poems"]
 description = "A poem about gratitude"
 +++
