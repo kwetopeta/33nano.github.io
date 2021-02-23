@@ -2,7 +2,7 @@
 title = "Jah Patriarch"
 date = "2021-02-03"
 tags = ["Poems"]
-cover = ""
+cover = "https://i.redd.it/f1ax97gb9aj61.png"
 categories = ["Poems"]
 description = "Relearning the internet. The cover is a space image by Nasa from unsplash blended with some patterns from Everypixel"
 +++
