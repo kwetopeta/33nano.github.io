@@ -11,3 +11,4 @@ My name is Prince Kaizen Namwali and this is my blog. I like to write about all 
 - __Editor:__ Neovim + Spacevim
 - __Langs:__ Go, GDScript, Lua, Bash
 - __Tools:__ Inkscape, Gimp, Aseprite, Reaper
+- __Tech:__ Hugo, 
