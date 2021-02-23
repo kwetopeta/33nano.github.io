@@ -2,7 +2,7 @@
 title = "Sudo's Requiem"
 date = "2020-12-27"
 tags = ["Poems"]
-cover = ""
+cover = "https://i.redd.it/jm9ye59ijaj61.png"
 categories = ["Poems"]
 description = "A poem about psychology"
 +++
