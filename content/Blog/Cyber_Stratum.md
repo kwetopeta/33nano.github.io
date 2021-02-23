@@ -1,5 +1,5 @@
 +++
-title = ""
+title = "Cyber Stratum"
 date = "2020-12-29"
 tags = ["Poems"]
 cover = ""
