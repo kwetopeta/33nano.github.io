@@ -48,7 +48,7 @@ googleAnalytics = "UA-162757063-2"
 
   siteStartYear = 2021
 
-   favicon = "/game.png"
+   favicon = "/favicon.ico"
 
   # highlightjs = true
   # highlightjsCDN = "https://cdn.jsdelivr.net/gh/highlightjs/cdn-release/build/highlight.min.js"
