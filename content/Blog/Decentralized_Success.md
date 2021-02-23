@@ -2,7 +2,7 @@
 title = "Decentralized Success"
 date = "2020-12-30"
 tags = ["Poems"]
-cover = ""
+cover = "https://i.redd.it/ha639akwcaj61.png"
 categories = ["Poems"]
 description = "A poem about success and the decentralized web"
 +++
