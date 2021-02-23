@@ -2,7 +2,7 @@
 title = "A Hoarder's Legacy"
 date = "2020-12-23"
 tags = ["Poems"]
-cover = ""
+cover = "https://i.redd.it/7gt153o4kaj61.png"
 categories = ["Poems"]
 description = "A poem about why minimalism is the answer that hoarder have been waiting for all along"
 +++
