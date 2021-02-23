@@ -67,5 +67,5 @@ googleAnalytics = "UA-162757063-2"
   # hasTwitterEmbed = true
 
   # [params.advanced]
-  #   customCSS = ["css/custom.css"]
+     customCSS = ["css/custom.css"]
   #   customJS = []
