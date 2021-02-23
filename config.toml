@@ -57,7 +57,7 @@ googleAnalytics = "UA-162757063-2"
   # highlightjsThemeDark = "gruvbox-dark"
 
   # search
-  # enableSearch = true
+   enableSearch = true
 
   # options
   # showSummaryCoverInPost = true
