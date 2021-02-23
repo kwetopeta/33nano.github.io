@@ -61,3 +61,5 @@ Manga, manhwa and manhua. Helps you visualise things, gets your creative juices 
 developer or “owner” of the program, that controls the program—and through it, exercises power over its users.  A nonfree program is a yoke, an instrument of unjust power.
 
 I used this [site](https://favicon.io/favicon-converter/) to convert my png to ico format. 
+
+<!-- Inviting someone over to eat Ramen in Asia is the equivalent to inviting someone over to Netflix and chill in the west. Its not primarily about the food or what displays on the television, but about the human connection. More so, the connection of reproductive organs for the sake of pleasure, not for procreation. -->
