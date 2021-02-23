@@ -2,7 +2,7 @@
 title = "A Room Full of Dead Dreams"
 date = "2020-12-27"
 tags = ["Poems"]
-cover = ""
+cover = "https://i.redd.it/a4ja6yb4eaj61.png"
 categories = ["Poems"]
 description = "A poem about the toxicity of the School System"
 +++
