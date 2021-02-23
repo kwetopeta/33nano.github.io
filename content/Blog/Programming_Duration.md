@@ -2,7 +2,7 @@
 title = "How Long Does It Take To Learn Programming?"
 date = "2020-12-20"
 tags = ["Questions"]
-cover = ""
+cover = "https://i.redd.it/vox49qxvf4j61.png"
 categories = ["Questions"]
 description = "Thanks to the global pandemic, i finally know what i want to do, Game Development. Image is a combination of Every Pixel pattern and the brain picture by David clode on Unsplash"
 +++
