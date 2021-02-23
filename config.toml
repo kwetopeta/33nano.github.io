@@ -58,7 +58,10 @@ googleAnalytics = "UA-162757063-2"
 
   # search
    enableSearch = true
-
+   
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  
   # options
   # showSummaryCoverInPost = true
   # hasTwitterEmbed = true
