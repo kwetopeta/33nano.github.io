@@ -66,6 +66,6 @@ googleAnalytics = "UA-162757063-2"
   # showSummaryCoverInPost = true
   # hasTwitterEmbed = true
 
-  # [params.advanced]
+   [params.advanced]
      customCSS = ["css/custom.css"]
   #   customJS = []
