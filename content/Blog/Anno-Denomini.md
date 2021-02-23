@@ -2,7 +2,7 @@
 title = "Anno Denomini"
 date = "2020-12-26"
 tags = ["Poems"]
-cover = ""
+cover = "https://i.redd.it/ghmocnfyjaj61.png"
 categories = ["Poems"]
 description = "A poem about Artificial Intelligence and technology"
 +++
