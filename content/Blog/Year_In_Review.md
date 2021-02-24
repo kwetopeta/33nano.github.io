@@ -31,3 +31,5 @@ description = "Another title would be Sapien Isolation. The art is by ansimuz in
 - [Bucket List](https://www.youtube.com/watch?v=H6Y7mfxEaco)
 - [Deconsructed Racism](https://www.youtube.com/watch?v=RZgkjEdMbSw) #BlackLivesMatter
 - [I Sued The School System](https://www.youtube.com/watch?v=dqTTojTija8)
+- [Why I Hate School,But Love Education](https://www.youtube.com/watch?v=y_ZmM7zPLyI)
+- 
