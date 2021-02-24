@@ -10,5 +10,5 @@ Welcome to my blog. My name is Prince Kaizen Namwali, an Afropolitan from the wa
 - __Engine:__ Godot
 - __Editor:__ Neovim + Spacevim
 - __Langs:__ Go, GDScript, Lua, Bash
-- __Tools:__ Inkscape, Gimp, Aseprite, Reaper
+- __Tools:__ Inkscape, Gimp, Aseprite, Reaper, Obsidian
 - __Tech:__ Hugo, 
