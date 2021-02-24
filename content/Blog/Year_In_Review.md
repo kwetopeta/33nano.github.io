@@ -33,3 +33,4 @@ description = "Another title would be Sapien Isolation. The art is by ansimuz in
 - [I Sued The School System](https://www.youtube.com/watch?v=dqTTojTija8)
 - [Why I Hate School,But Love Education](https://www.youtube.com/watch?v=y_ZmM7zPLyI)
 - 
+<!-- Self deprecation is one hell of a drug -->
