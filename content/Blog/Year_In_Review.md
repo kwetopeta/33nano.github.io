@@ -24,3 +24,4 @@ description = "Another title would be Sapien Isolation. The art is by ansimuz in
 - [The Social Dilemna](https://www.thesocialdilemma.com/) (Documentary)
 - [College is Dead](https://www.youtube.com/watch?v=9qGBICsVeXQ)
 - 
+- [Deconsructed Racism](https://www.youtube.com/watch?v=RZgkjEdMbSw) #BlackLivesMatter
