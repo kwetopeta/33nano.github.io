@@ -10,3 +10,6 @@ description = "Relearning the internet. The cover is a space image by Nasa from 
 
 - [x] [Learning out loud](https://discoverpraxis.com/3-reasons-learn-loud/) 
 - 
+
+# Content I Consumed
+- [Creating a Second Brain](https://www.youtube.com/watch?v=5zhCd04a-4w) - Tiago Forte
