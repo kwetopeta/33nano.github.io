@@ -19,3 +19,4 @@ This is a list of burning questions that i have come to find answers to by readi
 
 # How Can I Apply What I Learn?
 
+# Who Would You Be Without Your Excuses?
