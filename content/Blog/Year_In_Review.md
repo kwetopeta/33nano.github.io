@@ -14,7 +14,7 @@ description = "Another title would be Sapien Isolation. The art is by ansimuz in
 - [Markdown](https://www.markdownguide.org/)
 - Decentralized Applications ([Dapps](https://www.dapp.com/))
 - [Metamask](https://metamask.io/)
-- [Reedsy)[https://reedsy.com/]
+- [Reedsy](https://reedsy.com/)
 - [Figma](https://www.figma.com/)
 - [Unstoppable Domains](https://unstoppabledomains.com/)
 - Search Engine Optimization (SEO) - First page results on Google & other search engines (name search). 
