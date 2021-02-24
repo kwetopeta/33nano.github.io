@@ -30,4 +30,4 @@ description = "Another title would be Sapien Isolation. The art is by ansimuz in
 - [Watch This Before You ...](https://www.youtube.com/watch?v=sOMLVlqzw_4)
 - [Bucket List](https://www.youtube.com/watch?v=H6Y7mfxEaco)
 - [Deconsructed Racism](https://www.youtube.com/watch?v=RZgkjEdMbSw) #BlackLivesMatter
-- 
+- [I Sued The School System](https://www.youtube.com/watch?v=dqTTojTija8)
