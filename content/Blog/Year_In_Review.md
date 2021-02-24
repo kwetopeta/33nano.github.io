@@ -19,3 +19,7 @@ description = "Another title would be Sapien Isolation. The art is by ansimuz in
 - [Unstoppable Domains](https://unstoppabledomains.com/)
 - Search Engine Optimization (SEO) - First page results on Google & other search engines (name search). 
 - 
+
+## Content I Consumed
+- [The Social Dilemna](https://www.thesocialdilemma.com/) (Documentary)
+- 
