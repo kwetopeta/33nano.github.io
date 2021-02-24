@@ -25,6 +25,7 @@ description = "Another title would be Sapien Isolation. The art is by ansimuz in
 - [College is Dead](https://www.youtube.com/watch?v=9qGBICsVeXQ)
 - [Capitalism: A Love Story](https://www.imdb.com/title/tt1232207/)
 - [Minimalism: A Documentary About The Important Things](https://minimalismfilm.com/)
+- [The Stories We Tell About Money](https://www.youtube.com/watch?v=ONvg9SbauMg)
 - 
 - [Bucket List](https://www.youtube.com/watch?v=H6Y7mfxEaco)
 - [Deconsructed Racism](https://www.youtube.com/watch?v=RZgkjEdMbSw) #BlackLivesMatter
