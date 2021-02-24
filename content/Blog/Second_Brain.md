@@ -1,5 +1,5 @@
 +++
-title = "Mental Model 01: Second Brain"
+title = "Mental Model 02: Second Brain"
 date = "2021-01-02"
 tags = ["Brain-Health"]
 cover = ""
