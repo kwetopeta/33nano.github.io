@@ -4,7 +4,7 @@ date: 2021-02-22T19:31:31-06:00
 draft: false
 ---
 
-My name is Prince Kaizen Namwali and this is my blog. I like to write about all sorts of topics from poetry, what i'm learning, game development and more.
+Welcome to my blog. My name is Prince Kaizen Namwali, an Afropolitan from the warm heart of Africa. My go to tagline on the web is _Lifelong Learner, Digital Nomad & Game Developer._ I love writing about all sorts of things from poetry, things that I'm learning about, game development and more. The secret ingredient to my writing is Neuro-Linguistic Programming (it's a brain changer).
 
 - __OS:__ Artix Linux + Runit + AwesomeWM
 - __Engine:__ Godot
