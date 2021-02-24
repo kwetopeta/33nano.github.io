@@ -9,7 +9,10 @@ description = "Relearning the internet. The cover is a space image by Nasa from 
 
 
 - [x] [Learning out loud](https://discoverpraxis.com/3-reasons-learn-loud/) 
-- 
+- [ ] Creating ebooks using Markdown and Pandoc
+- [x] Build a website using Hugo
+- [ ] Create a website on IPFS
+- [ ] Fully adopt the [Crash](https://crash.co/) mindset
 
 # Content I Consumed
 - [Creating a Second Brain](https://www.youtube.com/watch?v=5zhCd04a-4w) - Tiago Forte
