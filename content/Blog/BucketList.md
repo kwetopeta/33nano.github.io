@@ -1,6 +1,6 @@
 +++
 title = "Mental Model 04: Bucket List"
-date = "2021-01-05"
+date = "2021-01-04"
 tags = ["Brain-Health"]
 cover = ""
 categories = ["Brain-Health"]
