@@ -7,15 +7,18 @@ categories = ["Life"]
 description = "Relearning the internet. The cover is a space image by Nasa from unsplash blended with some patterns from Everypixel"
 +++
 
-
+# Goals
 - [x] [Learning out loud](https://discoverpraxis.com/3-reasons-learn-loud/) 
-- [ ] Creating ebooks using Markdown and Pandoc
+- [ ] Learn how to create ebooks using Markdown and Pandoc
 - [x] Build a website using Hugo
 - [ ] Create a website on IPFS
 - [ ] Fully adopt the [Crash](https://crash.co/) mindset
 - [x] Learn & Master Vim
 - [ ] Create a name generator 
-- [x] Cold Showers Only
+- [x] Take more cold showers
+- [ ] Learn Korean - Read Manhwa without waiting for scanlators 
+- [ ] Creat an effective Second Brain
+- [ ] 
 
 # Content I Consumed
 - [Creating a Second Brain](https://www.youtube.com/watch?v=5zhCd04a-4w) - Tiago Forte
