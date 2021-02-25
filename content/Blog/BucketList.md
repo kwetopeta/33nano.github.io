@@ -2,7 +2,7 @@
 title = "Mental Model 04: Bucket List"
 date = "2021-01-04"
 tags = ["Brain-Health"]
-cover = ""
+cover = "https://i.redd.it/2wz9qbastnj61.png"
 categories = ["Brain-Health"]
 description = "Relearning the internet. The cover is a space image by Nasa from unsplash blended with some patterns from Everypixel"
 +++
