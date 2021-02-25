@@ -17,8 +17,9 @@ description = "Relearning the internet. The cover is a space image by Nasa from 
 - [ ] Create a name generator 
 - [x] Take more cold showers
 - [ ] Learn Korean - Read Manhwa without waiting for scanlators 
-- [ ] Creat an effective Second Brain
-- [ ] 
+- [ ] Create an effective Second Brain
+- [ ] Daily Blogging (Work in progress...)
+- [x] Hack sleep for lucid dreaming
 
 # Content I Consumed
 - [Creating a Second Brain](https://www.youtube.com/watch?v=5zhCd04a-4w) - Tiago Forte
