@@ -8,3 +8,5 @@ description = "Relearning the internet. The cover is a space image by Nasa from 
 +++
 
 Its a German word...
+
+<!-- The web alliteration, Wix, Webflow and wordpress. -->
