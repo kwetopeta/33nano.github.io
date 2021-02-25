@@ -15,6 +15,7 @@ description = "Relearning the internet. The cover is a space image by Nasa from 
 - [ ] Fully adopt the [Crash](https://crash.co/) mindset
 - [x] Learn & Master Vim
 - [ ] Create a name generator 
+- [x] Cold Showers Only
 
 # Content I Consumed
 - [Creating a Second Brain](https://www.youtube.com/watch?v=5zhCd04a-4w) - Tiago Forte
