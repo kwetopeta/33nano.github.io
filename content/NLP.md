@@ -1,0 +1,10 @@
++++
+title = "Mental Model 22: Neuro Linguistic Programming"
+date = "2021-01-22"
+tags = ["Brain-Health"]
+cover = ""
+categories = ["Brain-Health"]
+description = "Relearning the internet. The cover is a space image by Nasa from unsplash blended with some patterns from Everypixel"
++++
+
+Not exactly a mental model, but its something relevant to truly understand the human brain from a linguistic perspective....
