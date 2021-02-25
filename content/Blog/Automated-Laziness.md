@@ -11,6 +11,15 @@ description = "Automation and laziness are two synonymous words that when combin
 
 The ship cover resembles the nature of the hydro mode of transportaion, automated. 
 
+
+### Challenges
+- Create a shell script or tasker script that automatically erases metadata for every photo captured using phones camera
+1. The script would need to have access to the DCIM folder. The script would cd (change directory)
+2. The script would need to initiate an application that is specifically designed to erase metadata
+3. Here is the real challenge: Whats required? Overlay permission? Root permission? How do you get your script to interact with another app? Is it possible to have it automated in a way that doesnt require a GUI?
+
+
+
 <!-- Make a parallax animation with Aseprite
 
 Csound for game developers?
