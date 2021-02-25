@@ -61,3 +61,4 @@ When God was in fact a robot, so complex and so far away
 
 His ultimate form…
 
+<!-- Dangalang is an object oriented programming language made of furries and integers. Instead of switch case statements you have hatsune mikus, instead of arrays you have shafts. (NSFW Poem idea) -->
