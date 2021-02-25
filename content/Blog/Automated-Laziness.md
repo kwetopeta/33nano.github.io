@@ -10,3 +10,25 @@ description = "Automation and laziness are two synonymous words that when combin
 ### Notes
 
 The ship cover resembles the nature of the hydro mode of transportaion, automated. 
+
+<!-- Make a parallax animation with Aseprite
+
+Csound for game developers?
+
+Using databases vs using Obsidian as a second brain?
+
+Is a database better than a second brain?
+
+Linux from scratch and the birth of an abomination; Temple OS
+
+removing logos from branded clothing or just buying minimal clothes?
+
+Year in review blog addition
+
+New year resolutions
+
+Tiago Forte is the digital messiah, the revelator of the second brain, an overpriced course that teaches a powerful mental model thats more effective than Kaizen or gamification
+
+Reedsy vs Pandoc + Markdown
+
+-->
