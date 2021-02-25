@@ -1,6 +1,6 @@
 +++
 title = "Mental Model 12: BRIGHT MINDS"
-date = "2021-01-04"
+date = "2021-01-12"
 tags = ["Brain-Health"]
 cover = ""
 categories = ["Brain-Health"]
