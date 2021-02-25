@@ -12,3 +12,19 @@ description = "About my upcoming gamified brain health application. The photo is
 A cross platform gamified brain heatlh application that helps people learn faster and achieve more. 
 
 ETA *2025
+
+<!-- Tachiyomi break 
+
+- Overgeared 64
+- Second life ranker 73
+- - Wizard of Arsenia 50
+- - Blade of evolution 39
+- - Solo leveling 142
+- - Solo spell caster 30
+- - My dad is too strong 46
+-  Murim login 57
+-  - Peerless dad 162
+-  Great mage returns 69
+-  Limit breaker 15
+
+Awesome lists are awesome -->
