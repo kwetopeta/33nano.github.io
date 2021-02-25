@@ -25,3 +25,31 @@ The current and new generation will not suffer, but truly despair.
 
 Escape to space and suffer the same fate, humans are a despicable race
 
+<!-- Blogs
+
+Amen Clinics
+- Becoming Minimalists
+- Bedroom Producer
+- Blocks Decoded
+- Career Crashers
+- Cartoon Brew
+- Code With Andrea
+- Concept Art Empire
+- CSS Author
+- Dunebook
+- Frugal Living
+- George Gammon
+- Hackernoon
+- Here We Code
+- HipHop Makers
+- IPFS
+Minimalist Focus
+
+NVIDIA
+
+- Opensea
+- Peny Hoarder
+- Reedsy Learning
+- Rich Dad
+- Starter Story
+-->
