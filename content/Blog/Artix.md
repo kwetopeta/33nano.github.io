@@ -231,3 +231,5 @@ Password:artix
 `reboot`
 
 ![img](https://distrowatch.com/images/other/periodic-table-of-distro.png)
+
+<!-- The Bitwarden Exile: I once sailed across the atlantic in search of a peace of mind and a notebook that would securely store the passwords of digital existece. My eyes feasted upon the glorius password manager known as Bitwarden, but little did i know, i would soon lose myself. I was consumed by the technology that i believed would save my life and the pending monetary deduction of the subscription it was only moments away. The management part of it excels, but why is 2 factor authentication not free? So i moved away... -->
