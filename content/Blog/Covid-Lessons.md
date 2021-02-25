@@ -139,3 +139,28 @@ suffice)
 - Smart masks. Japan (language translation mask), Singapore (Covid 
 - symptom detector mask), RGB/Led Masks, Razer (transparent), Voice 
   amplifying masks....
+
+<!-- Artstation
+
+Aseprite
+
+Creary
+
+Dribble Ideas
+- 100+ Shots
+- Itch IO Mobile App
+- Food Delivery Mobile
+- Odysee (LBRY)
+- IPFS Mobile
+
+Figma (proprietary garbage)
+
+Inkscape
+
+Magicaxovel
+
+Mypaint
+
+Pixelorama
+
+-->
