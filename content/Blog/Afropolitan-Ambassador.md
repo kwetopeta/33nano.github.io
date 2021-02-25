@@ -1,9 +1,9 @@
 +++
 title = "Afropolitan Ambassador"
 date = "2020-12-19"
-tags = ["Life"]
+tags = ["Game-Dev"]
 cover = "https://i.redd.it/eufqc3av9lh61.png"
-categories = ["Life"]
+categories = ["Game-Dev"]
 description = "Thanks to the global pandemic, i finally know what i want to do, Game Development. Image is a combination of Every Pixel pattern and the brain picture by David clode on Unsplash"
 +++
 
