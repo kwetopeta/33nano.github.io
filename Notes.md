@@ -59,7 +59,17 @@ Manga, manhwa and manhua. Helps you visualise things, gets your creative juices 
 - [ ] GNU Philosophy review
 - I'm often asked to describe the “advantages” of free software.  But the word “advantages” is too weak when it comes to freedom.  Life without freedom is oppression, and that applies to computing as well as every other activity in our lives.  We must refuse to give the developers of the programs or computing services control over the computing we do.  This is the right thing to do, forselfish reasons; but not solely for selfish reasons.If the users don't control the program, the program controls the users.  With proprietary software, there is always some entity, the
 developer or “owner” of the program, that controls the program—and through it, exercises power over its users.  A nonfree program is a yoke, an instrument of unjust power.
+- [ ] Epic Rap Battles Review (Thor vs Zeus #best)
+- [ ] Truth be Told, The God Who Stays - NLP Message
+- [ ] Christafari fused Reggae with Christian Music into something...
+- [ ] 
 
 I used this [site](https://favicon.io/favicon-converter/) to convert my png to ico format. 
 
 <!-- Inviting someone over to eat Ramen in Asia is the equivalent to inviting someone over to Netflix and chill in the west. Its not primarily about the food or what displays on the television, but about the human connection. More so, the connection of reproductive organs for the sake of pleasure, not for procreation. -->
+
+<!-- Orange Chicken,
+
+Systematic Mastery
+
+-->
