@@ -7,6 +7,8 @@ categories = ["Brain-Health"]
 description = "Relearning the internet. The cover is a space image by Nasa from unsplash blended with some patterns from Everypixel"
 +++
 
+# BASB (Building A Second Brain)
+
 Super awesome mental model i just learned this year by Tiago Forte.
 
 PARA - Projects, Areas, Resources and Archive
@@ -36,7 +38,8 @@ Note Layers
 Another keypoint in your projects is to focus on your 12 favorite problems. A method devised by Richard Feynman (selection, research, writing, explaining and 
 refining)
 
-<!--
+- Its about building a system of personal knowledge management that frees up attention, rather than consuming it.
+
 We believe that building a Second Brain enables us to develop our First BrainFar
  from making humans obsolete, better tools for thinking will free us to 
 invest in ourselves. A Second Brain takes over the burden of remembering
@@ -44,5 +47,17 @@ invest in ourselves. A Second Brain takes over the burden of remembering
 our lives. The ultimate purpose of a Second Brain is to put our ideas to
  work for us, so we are free to live a more fulfilling and meaningful life
 
+By building a second brain its easier to get into a Flow state
+- clear goals (you know exactly what you need to do)
+- instant feedback
+- good balance of challenge and skills
 
--->
+Dont just consume content, interact with it.
+
+A metaplan can look something like this using various xamples
+- tweets >> blog posts >> Whole book
+- Figma design >> No code solution >> code it
+- Creating skins for game >> No code/visual game development >> Learn code = no restrictions
+- 
+
+[Another summary](https://maggieappleton.com/basb)
