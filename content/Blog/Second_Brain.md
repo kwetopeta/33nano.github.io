@@ -26,9 +26,17 @@ Diverse mediums (images, audio, video, books, articles, code, sketches, demos...
 The Second Brain mental model is all about person knowledge management (lifelong learning).
 - Browsing the library of your own mind is enormously different to the generalized documents of strangers
 
+Note Layers
+1. Raw Notes
+2. Bold passages
+3. Highlights
+4. Essential Summary
+5. Remix into original creation
+
 Another keypoint in your projects is to focus on your 12 favorite problems. A method devised by Richard Feynman (selection, research, writing, explaining and 
 refining)
 
+<!--
 We believe that building a Second Brain enables us to develop our First BrainFar
  from making humans obsolete, better tools for thinking will free us to 
 invest in ourselves. A Second Brain takes over the burden of remembering
