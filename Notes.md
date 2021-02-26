@@ -62,7 +62,7 @@ developer or “owner” of the program, that controls the program—and through
 - [ ] Epic Rap Battles Review (Thor vs Zeus #best)
 - [ ] Truth be Told, The God Who Stays - NLP Message
 - [ ] Christafari fused Reggae with Christian Music into something...
-- [ ] 
+- [ ] Lyrical Revival: Unknown P, Epic Rap Battles of History, Samsa & More
 
 I used this [site](https://favicon.io/favicon-converter/) to convert my png to ico format. 
 
