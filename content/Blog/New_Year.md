@@ -21,6 +21,7 @@ description = "Relearning the internet. The cover is a space image by Nasa from 
 - [ ] Daily Blogging (Work in progress...)
 - [x] Hack sleep for lucid dreaming
 - [x] Buy a custom domain (.xyz migrated from the netlify subdomain)
+- [ ] Improve my touch typing (160WPM).
 
 # Content I Consumed
 - [Creating a Second Brain](https://www.youtube.com/watch?v=5zhCd04a-4w) - Tiago Forte
