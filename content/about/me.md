@@ -8,7 +8,7 @@ Welcome to my Second Brain! My name is Prince Kaizen Namwali, an Afropolitan fro
 
 - __OS:__ Artix Linux + Runit + AwesomeWM
 - __Engine:__ Godot
-- __Editor:__ Neovim + Spacevim
+- __Editor:__ Neovim + Spacevim & Onivim 2
 - __Langs:__ Go, GDScript, Lua, Bash
 - __Tools:__ Inkscape, Gimp, Aseprite, Reaper, Obsidian
 - __Tech:__ Hugo, 
