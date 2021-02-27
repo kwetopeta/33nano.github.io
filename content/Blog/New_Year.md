@@ -27,6 +27,6 @@ description = "Relearning the internet. The cover is a space image by Nasa from 
 
 # Content I Consumed
 - [Creating a Second Brain](https://www.youtube.com/watch?v=5zhCd04a-4w) - Tiago Forte
-- [When Unknown P meets Unknown T](https://www.youtube.com/watch?v=hms7F5OqwGg)
+- [Unknown P- Daily Duppy](https://www.youtube.com/watch?v=uiQQ3QB-c00)
 - [Every Type of Programmer](https://www.youtube.com/watch?v=ttcflCFd5B8)
 <!-- Digital homelessness is one of the biggest problems that affects a lot of people on the internet, but the truth be told you can change that.If you are willing to accept our Lord and saviot, Square space, you will get 15% of your first purchase. Suquarespace is a platform for all of us sinners who wish to be born again and start afresh by creating a website. Come just as you are, weird, weary, wicked, even if you dont know how to code, just come. Come and partake of the fruit that cures digital homelessness and build your website today. Use promo code ... -->
