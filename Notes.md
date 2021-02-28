@@ -27,6 +27,7 @@
 - When i learned that you dont have to memorize everything, i felt like this immense weight of doubt had been lifted. You can always go back to the documentation, use references like a cheat sheet, you have man pages. The more you do it, the easier it becomes to remember. If you forget, you are not stuck, just review it, its simple.
 - [ ] Neovim is a way of life
 - All you need to know is how to insert, save and quit , then the rest you can easily pick up.
+- Vim is a way of life, Spacevim , Neovim, Onivim 2 strife
 - [ ] 365 Spreadsheet Challenge
 - What I learned from using Spreadsheets everyday for a single year. You cant change what you don't measure.
 - [ ] Polyglot of Babylon
