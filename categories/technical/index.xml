@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technical on Prince Namwali</title>
+    <link>https://33nano.xyz/categories/technical/</link>
+    <description>Recent content in Technical on Prince Namwali</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://33nano.xyz/categories/technical/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Layers of the Web</title>
+      <link>https://33nano.xyz/blog/web-layers/</link>
+      <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://33nano.xyz/blog/web-layers/</guid>
+      <description>Relearning The Internet Today i decided to relearn about the internet. As a casual surfer, i thought i knew all that there is to know about the internet, but that wasn&amp;rsquo;t the case. I just believed the internet was just this magical place people went to, in order to do all sorts of things like shopping, streaming videos, reading manhwa and what have you, but there is more. The layer of the internet that i have spent most of time on is something called the surface web.</description>
+    </item>
+    
+    <item>
+      <title>Artix Linux Installation</title>
+      <link>https://33nano.xyz/blog/artix/</link>
+      <pubDate>Sun, 14 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://33nano.xyz/blog/artix/</guid>
+      <description>Why? Not long ago, my knowledge of operating systems was limited. I only thought that Windows and MacOS were the only operating systems in existence,but little did i know that there was another universe out there. A universe packed with real freedom,better security, extreme customizability, faster and filled with an even larger community, than my brain could ever comprehend. I remember the feeling of excitement that ran across my face, when i first installed a linux distribution on my personal computer.</description>
+    </item>
+    
+    <item>
+      <title>365 Spreadsheet Challenge</title>
+      <link>https://33nano.xyz/blog/spreadsheet/</link>
+      <pubDate>Sat, 13 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://33nano.xyz/blog/spreadsheet/</guid>
+      <description>Notes What i learned from using spreadsheets every day for a single year
+ You cant change what you dont measure We consume more than we create If you want to make a change in your life, you have to do the opposite. Create more than you consume.  </description>
+    </item>
+    
+    <item>
+      <title>Friendly Documentation</title>
+      <link>https://33nano.xyz/blog/documentation/</link>
+      <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://33nano.xyz/blog/documentation/</guid>
+      <description>Notes Documentation is the best friend of a developer.
+Shocking realization: you dont have to memorize everything. You can always reference it. Documentation, like books are not a one time thing. They are a friend that you can always go back to every single time.</description>
+    </item>
+    
+    <item>
+      <title>Digital Homelessness</title>
+      <link>https://33nano.xyz/blog/digital-homelessness/</link>
+      <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://33nano.xyz/blog/digital-homelessness/</guid>
+      <description>Notes Its one of the most widespread problems that affects internet users.</description>
+    </item>
+    
+    <item>
+      <title>Automation &amp; Laziness</title>
+      <link>https://33nano.xyz/blog/automated-laziness/</link>
+      <pubDate>Mon, 08 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://33nano.xyz/blog/automated-laziness/</guid>
+      <description>Notes The ship cover resembles the nature of the hydro mode of transportaion, automated.
+Challenges  Create a shell script or tasker script that automatically erases metadata for every photo captured using phones camera   The script would need to have access to the DCIM folder. The script would cd (change directory) The script would need to initiate an application that is specifically designed to erase metadata Here is the real challenge: Whats required?</description>
+    </item>
+    
+    <item>
+      <title>Living Gapps Free</title>
+      <link>https://33nano.xyz/blog/gapss-free/</link>
+      <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://33nano.xyz/blog/gapss-free/</guid>
+      <description>What Are Gapps? </description>
+    </item>
+    
+    <item>
+      <title>Lingua Franca</title>
+      <link>https://33nano.xyz/blog/lingua-franca/</link>
+      <pubDate>Sat, 06 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://33nano.xyz/blog/lingua-franca/</guid>
+      <description>Notes  Neuro Linguistic Programming Bash Scripiting Go  Fun Fact:
+ Markup languaes (markdown, toml, html&amp;hellip;) Scripting languages (Lua, bash, fish, zsh &amp;hellip;) Programming languges (Go, Dart, Python)  </description>
+    </item>
+    
+    <item>
+      <title>Unstable Productivity</title>
+      <link>https://33nano.xyz/blog/unstablee-productivity/</link>
+      <pubDate>Thu, 04 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://33nano.xyz/blog/unstablee-productivity/</guid>
+      <description>I am a maverick when it comes to my software selection choice. I like to be on the bleeding edge of technology, i am never satisfied in being like everyone else that uses stable builds of an application. I like to have a taste a of the feature, bugs be damned, it wont stop me from witnessing the birth of new ideas and experiences that can only be lived by using unstable builds of software.</description>
+    </item>
+    
+  </channel>
+</rss>

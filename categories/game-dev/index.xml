@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Game-Dev on Prince Namwali</title>
+    <link>https://33nano.xyz/categories/game-dev/</link>
+    <description>Recent content in Game-Dev on Prince Namwali</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 19 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://33nano.xyz/categories/game-dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Afropolitan Ambassador</title>
+      <link>https://33nano.xyz/blog/afropolitan-ambassador/</link>
+      <pubDate>Sat, 19 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://33nano.xyz/blog/afropolitan-ambassador/</guid>
+      <description>2020 has been a crazy year&amp;hellip; </description>
+    </item>
+    
+  </channel>
+</rss>
