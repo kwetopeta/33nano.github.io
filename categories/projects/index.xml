@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Prince Namwali</title>
+    <link>https://33nano.xyz/categories/projects/</link>
+    <description>Recent content in Projects on Prince Namwali</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://33nano.xyz/categories/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Artix Linux Installation</title>
+      <link>https://33nano.xyz/blog/artix/</link>
+      <pubDate>Sun, 14 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://33nano.xyz/blog/artix/</guid>
+      <description>Why? Not long ago, my knowledge of operating systems was limited. I only thought that Windows and MacOS were the only operating systems in existence,but little did i know that there was another universe out there. A universe packed with real freedom,better security, extreme customizability, faster and filled with an even larger community, than my brain could ever comprehend. I remember the feeling of excitement that ran across my face, when i first installed a linux distribution on my personal computer.</description>
+    </item>
+    
+  </channel>
+</rss>
