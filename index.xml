@@ -6,18 +6,28 @@
     <description>Recent content on Prince Namwali</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://33nano.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://33nano.xyz/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>New Year; Second Brain 🧠</title>
+      <title>Mater Artium Necessitas</title>
+      <link>https://33nano.xyz/blog/uvumbuzi/</link>
+      <pubDate>Fri, 16 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://33nano.xyz/blog/uvumbuzi/</guid>
+      <description>Necessity is the mother of invention, but it all starts with a question. Is this the only way? What do i need that the currently available options don&amp;rsquo;t provide? How can we change this? Why? How come? Is there a better way? How can this be improved? What if? And the list of questions goes one and on.
+Necessity is behind why we search for information on the internet. You could be looking for the definition of a word, a code solution on stack overflow, more information about a person or just about anything you are curious about.</description>
+    </item>
+    
+    <item>
+      <title>New Year: Second Brain 🧠</title>
       <link>https://33nano.xyz/blog/2021-reboot/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://33nano.xyz/blog/2021-reboot/</guid>
-      <description>Goals  [] Learning Out Loud [] Creating eBooks using Markdown &amp;amp; Pandoc Build a simple blogging site (Hugo) Learn &amp;amp; Master Vim [] Daily Blogging [] Take more cold showers (cold therapy) [] Build a Second Brain [] Improve my touch typing speed [] Learn Latin [] Adopt the crash mindset   Content Consumed  The Second Brain Lingua Latina Per Se Illustrata Learning latin with Scorpio Martianus Unknown P - Daily Duppy Every Type of Programmer  </description>
+      <description>I started the year 2021 with a bang. I learned about this awesome personal knowledge management system called a Second Brain. The Second Brain is a digital note taking system that was invented by Tiago Forte and it has multiple great benefits one of them being a solution to information overload. I was immediately intrigued just by the wording alone and i was able to find even more information by digging through YouTube and their official podcast, Building A Second Brain.</description>
     </item>
     
     <item>
-      <title>Goodbye 2020 💔</title>
+      <title>Sayonara 2020 💔</title>
       <link>https://33nano.xyz/blog/2020/</link>
       <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
       
@@ -27,3 +37,5 @@
     
   </channel>
 </rss>
+
+
