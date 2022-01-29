@@ -7,10 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2021 Prince Kaizen Namwali</copyright>
-    <lastBuildDate>Wed, 17 Nov 2021 00:00:00 -0600</lastBuildDate>
+    <lastBuildDate>Sat, 29 Jan 2022 00:00:00 -0600</lastBuildDate>
     
 	<atom:link href="https://33nano.xyz/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Frugal Vtubing</title>
+      <link>https://33nano.xyz/post/vtube/</link>
+      <pubDate>Sat, 29 Jan 2022 00:00:00 -0600</pubDate>
+      
+      <guid>https://33nano.xyz/post/vtube/</guid>
+      <description>In this blog post, I&amp;rsquo;ll present to you a very efficient way to Vtube using your Android device, scrcpy, REALITY App and OBS Studio.
+This is our goal (click on the image to see its full resolution):
+
+-- </description>
+    </item>
     
     <item>
       <title>Ethereal Sleep</title>
@@ -18,7 +30,7 @@
       <pubDate>Wed, 17 Nov 2021 00:00:00 -0600</pubDate>
       
       <guid>https://33nano.xyz/post/sleep/</guid>
-      <description>I can&amp;rsquo;t pinpoint the exact date, but I was listening to Gregorian Chants, while working on something. In the heat of the moment, I though to myself, &amp;lsquo;this would pretty cool with some rain sounds in the background.&amp;rsquo; I should have just dismissed the thought then, but my curiosity got the best of me. The next steps were visibly clear, I simply needed to downloaded the soundtracks and combine them with Audacity.</description>
+      <description>I can&amp;rsquo;t pinpoint the exact date, but I was listening to Gregorian Chants, while working on something. In the heat of the moment, I though to myself, &amp;lsquo;this would pretty cool with some rain sounds in the background.&amp;rsquo; I should have just dismissed the thought then, but my curiosity got the best of me. The next steps were visibly clear, I simply needed to download the soundtracks and combine them with Audacity.</description>
     </item>
     
     <item>
