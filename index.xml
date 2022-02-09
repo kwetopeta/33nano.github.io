@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Second Brain</title>
@@ -7,15 +7,11 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2021 Prince Kaizen Namwali</copyright>
-    <lastBuildDate>Sat, 29 Jan 2022 00:00:00 -0600</lastBuildDate>
-    
-	<atom:link href="https://33nano.xyz/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 29 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://33nano.xyz/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Frugal Vtubing</title>
       <link>https://33nano.xyz/post/vtube/</link>
-      <pubDate>Sat, 29 Jan 2022 00:00:00 -0600</pubDate>
+      <pubDate>Sat, 29 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://33nano.xyz/post/vtube/</guid>
       <description>In this blog post, I&amp;rsquo;ll present to you a very efficient way to Vtube using your Android device, scrcpy, REALITY App and OBS Studio.
@@ -27,7 +23,7 @@ This is our goal (click on the image to see its full resolution):
     <item>
       <title>Ethereal Sleep</title>
       <link>https://33nano.xyz/post/sleep/</link>
-      <pubDate>Wed, 17 Nov 2021 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>https://33nano.xyz/post/sleep/</guid>
       <description>I can&amp;rsquo;t pinpoint the exact date, but I was listening to Gregorian Chants, while working on something. In the heat of the moment, I though to myself, &amp;lsquo;this would pretty cool with some rain sounds in the background.&amp;rsquo; I should have just dismissed the thought then, but my curiosity got the best of me. The next steps were visibly clear, I simply needed to download the soundtracks and combine them with Audacity.</description>
@@ -36,7 +32,7 @@ This is our goal (click on the image to see its full resolution):
     <item>
       <title>Site Navigation</title>
       <link>https://33nano.xyz/nav/</link>
-      <pubDate>Sat, 22 May 2021 00:00:00 -0500</pubDate>
+      <pubDate>Sat, 22 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://33nano.xyz/nav/</guid>
       <description>Comfort and Laziness have been my longest business partners, since the dawn of time. This site looks empty because Hugo is generous enough to have a draft = true Front Matter. In the meantime, I made some super cool placeholder titles and I&amp;rsquo;ll leave you with this awesome art manifesto by Austin Kleon -
@@ -49,8 +45,7 @@ Draw the art you want to see, start the business you want to run, play the music
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://33nano.xyz/about/</guid>
-      <description>Welcome to my Blog! My name is Prince Kaizen Namwali, an Afropolitan from the warm heart of Africa 🇲🇼. I am a Lifelong Learner, Digital Nomad &amp;amp; Game Dev. Whats my story?
-My story has a fuzzy timeline, but its safe to say that it started with a course, that I purchased on Udemy, entitled REBT The Science of Programming Your Mind, which can be found right here. Till this day, I can vividly recall the details of that course and continue to experience the positive impact that its had.</description>
+      <description>My Setup &amp;amp; Tools  OS 💻: Artix Linux + AwesomeWM  Engine 🎮 : Godot Editor 🖥️: Neovim + Spacevim &amp;amp; Onivim 2 Langs ❤️: Go, GDScript, Lua, Bash Art 🔥: Inkscape, Gimp, Aseprite, DAW : Reaper Second Brain 🧠: Obsidian Foam &amp;amp; Markor Tech 🚀: Hugo, Browser 🌍: EinkBro, Privacy Browser &amp;amp;, Qutebrowser LibreWolf Wallet ₿: Metamask &amp;amp; Monero CLI Addons:: uBlock Origin, Dark Reader, IPFS Companion, Lighthouse, Leechblock NG, NoScript, uMatrix, Vim Vixen  Digital Footprint  Github  Audius Dribbble LMMS BitDegree Creary LBRY Rive  Welcome to my Blog!</description>
     </item>
     
   </channel>
